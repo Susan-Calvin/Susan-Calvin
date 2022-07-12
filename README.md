@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ludmila Vishnyak
 - 🌱 I’m currently learning how to parse data from websites
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ludmila-vishnyak/)
-- :bulb: Here is a portfolio of my favourite project complted by me during the Practicum 100 course:
+- :bulb: Here is a portfolio of my favourite projects:
 
 # Analytics-projects
-Projects completed during Practicum 100 course. The full notebooks are available at the links below.
+Projects completed during Practicum 100 course. The full notebooks are available on the links below.
 
 ## Graduation projects:
 | № | Projects   | Description                                                    | Tools |
