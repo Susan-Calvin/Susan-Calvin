@@ -26,3 +26,8 @@ Projects completed during Practicum 100 course. The full notebooks are available
 |7  |[Research of the F&B establishments market in Los Angeles](https://github.com/Susan-Calvin/Storytelling-with-Data/blob/main/7_Data_Storytelling.ipynb)|Presentation of the results of the analytical study|Data Analysis on public F&B establishments in Los Angeles for an investment project for the opening of a robo-cafe, presentation of the results|python, pandas, numpy, matplotlib, seaborn, plotly express, regular expressions, usaddress, Canva|
 |8  |[Event based marketing analysis](https://github.com/Susan-Calvin/Event-based-Analytics/blob/main/8_Funnels_AB_testing.ipynb)|Final project of second module|Data Analysis of the sales funnel, event funnel, and results of an A/A/B experiment on changing the font in a mobile food products app|python, pandas, datetime, numpy, scipy, math, matplotlib, seaborn, plotly|
 |9  |[Customers churn prediction](https://github.com/Susan-Calvin/Forecasts-and-Predictions/blob/main/9_ML_Forecasts%20and%20Predictions.ipynb)|Machine Learning: Forecasts and Predictions|Clustering customers and building predictive churn models using ML algorythm implementations|python, pandas, sklearn, scipy, matplotlib, seaborn|
+
+## Pet projects:
+| № | Project   | Topic   |Description                                                    | Tools |
+|---|----------|--------|------------------------------------------------------------|-------------|
+|1  |[Analysing sales](https://github.com/Susan-Calvin/Sales-analysis-in-SQL-Excel-Tableau/blob/main/SQL_Excel_Tableau.ipynb)|Data transfer from SQL to Excel and Tableau|Analysis of performance of sales representatives|python, pandas, sqlalchemy, psycopg2, xlsxwriter|
