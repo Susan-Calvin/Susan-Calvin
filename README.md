@@ -11,7 +11,7 @@ Projects completed during Practicum 100 course. The full notebooks are available
 |---|----------|------------------------------------------------------------|-------------|
 |1  |[Retail: Assess Sales Outlets' Performance](https://github.com/Susan-Calvin/Retail-Assesment/blob/main/12_Retail%20Assesment.ipynb)|Analysis and assessment of key performance parameters of offline retail outlets |python, pandas, numpy, scipy, matplotlib, seaborn, plotly express, squarify, Tableau, Canva|
 |2  |[Analysis of A/B testing results](https://github.com/Susan-Calvin/AB-test-Validation/blob/main/10_AB%20test%20validation.ipynb)|Evaluation of the correctness of the A/B test according to technical requirements, validation of the test results|python, pandas, datetime, scipy, matplotlib, seaborn, plotly|
-|3  |[Analysis of database tables](https://github.com/Susan-Calvin/SQL-queries/blob/main/11_SQL_books%20database.ipynb)|Connecting to a database, creating SQL queries|python, pandas, sqlalchemy, psycopg2|
+|3  |[Analysis of database tables](https://github.com/Susan-Calvin/SQL-queries/blob/main/11_SQL_books%20database.ipynb)|Connecting to a database, creating SQL queries|SQL, python, pandas, sqlalchemy, psycopg2|
  
 
  ## Sprint projects:
@@ -31,4 +31,4 @@ Projects completed during Practicum 100 course. The full notebooks are available
 ## Pet projects:
 | № | Project   | Topic   |Description                                                    | Tools |
 |---|----------|--------|------------------------------------------------------------|-------------|
-|1  |[Analysing sales](https://github.com/Susan-Calvin/Sales-analysis-in-SQL-Excel-Tableau/blob/main/SQL_Excel_Tableau.ipynb)|Data transfer from SQL to Excel and Tableau|Analysis of performance of sales representatives|python, pandas, sqlalchemy, psycopg2, xlsxwriter|
+|1  |[Analysing sales](https://github.com/Susan-Calvin/Sales-analysis-in-SQL-Excel-Tableau/blob/main/SQL_Excel_Tableau.ipynb)|Data transfer from SQL to Excel and Tableau|Analysis of performance of sales representatives|SQL, python, pandas, sqlalchemy, psycopg2, xlsxwriter|
