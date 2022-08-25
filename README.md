@@ -32,5 +32,5 @@ Projects completed during Practicum 100 course. The full notebooks are available
 | № | Project   | Topic   |Description                                                    | Tools |
 |---|----------|--------|------------------------------------------------------------|-------------|
 |1  |[Analysing sales](https://github.com/Susan-Calvin/Sales-analysis-in-SQL-Excel-Tableau/blob/main/SQL_Excel_Tableau.ipynb)|Data transfer from SQL to Excel and Tableau|Analysis of performance of sales representatives|SQL, python, pandas, sqlalchemy, psycopg2, xlsxwriter|
-|2  |[Robby, the Telegram chat bot](https://github.com/Susan-Calvin/Robby-Project)|Conversational chatbot with AI|Answer users simple questions, collect new users phrases to a database|python, sklearn, nltk, Flask, GitHub, Heroku, PstgreSQL|
+|2  |[Robby, the Telegram chat bot](https://github.com/Susan-Calvin/Robby-Project)|Conversational chatbot with AI|Answer users simple questions, collect new users phrases to a database|python, sklearn, nltk, psycopg2, GitHub, Heroku, PostgreSQL|
 |3  |[Call center interactive dashboard](https://susan-calvin-telebot-streamlit-app-4spi3a.streamlitapp.com/)|Automation with Streamlit|Building and deploying an interactive dashboard as a web application|python, excel, streamlit, pandas, GitHub|
